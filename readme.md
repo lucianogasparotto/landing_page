@@ -1,0 +1,1 @@
+An exercise from freeCodeCamp of a Landing page of a Trombone Band. Using html and css style with variables and media query
